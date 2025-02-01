@@ -1,4 +1,4 @@
-# Quizzler:A-Fu-Quiz-App
+# Quizzler:A-Fun-Quiz-App
 The Quizzler App is an interactive quiz game built using Python and Tkinter. It fetches questions from a data module and presents them in a visually appealing UI, allowing users to test their knowledge while tracking their scores.
 
 ## Features
